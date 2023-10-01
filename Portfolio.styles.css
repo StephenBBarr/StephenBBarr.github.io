@@ -143,3 +143,16 @@ main[b-8lh1yvxdyk] {
         display: block;
     }
 }
+/* /Shared/ProfileCard.razor.rz.scp.css */
+.profile-card[b-qfunmop2et] {
+    border-radius: 2px !important;
+}
+
+.profile-image[b-qfunmop2et] {
+    border-radius: 15px !important;
+}
+
+.bg-default-inset-shadow[b-qfunmop2et] {
+    background-color: var(--mud-palette-background) !important;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2) !important;
+}
